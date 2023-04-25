@@ -1,0 +1,8 @@
+:root {
+	--accent: blue;
+	--surface: red;
+}
+
+html {
+	background-color: var(--surface);
+}
